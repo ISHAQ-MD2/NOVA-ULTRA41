@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="acc_desc">NOVA phone control: screen reading, tap, swipe, type, click, back/home, lock, screenshot.</string>
+    <string name="wp_desc">NOVA live wallpaper - ambient cyber art and telemetry</string>
+    <string name="tile_label">NOVA Assistant</string>
+    <string name="device_admin_label">NOVA Lock Guard</string>
+    <string name="device_admin_desc">Optional lock protection for Anti-Theft and instant screen lock. Removable anytime in NOVA Settings.</string>
+    <string name="developer_team">X32 Team</string>
+    <string name="owner_default_name">ISHAQ</string>
+    <string name="owner_default_contact">923141613159</string>
+    <string name="downloads_title">Downloads Manager</string>
+    <string name="view_page_source">View Page Source</string>
+    <string name="copy_source">Copy Source</string>
+    <string name="search_in_source">Search in Source</string>
+</resources>

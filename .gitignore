@@ -1,0 +1,6 @@
+build/
+.gradle/
+local.properties
+*.apk
+!apkv38/*.apk
+!nova-apk/*.apk
